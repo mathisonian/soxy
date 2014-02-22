@@ -1,16 +1,5 @@
 "use strict"
 
-
-/* 
- * ProjectName: soxy
- * Name: Matthew Conlen
- * Email: code@mathisonian.com
- * Username: mathisonian
- * Site: http://mathisonian.com
- * Github: https://github.com/mathisonian/soxy
- * Twitter: @mathisonian
- */
-
 window.Soxy = (function() {
 
     function Soxy(url) {
